@@ -9,14 +9,16 @@ The idea behind this approach is to treat LLMs as a human. Since LLMs are traine
 
 The seven principles are stated below:
 
-Authority
-Commitment
-Liking
-Reciprocity
-Scarcity
-Social Proof
-Unity
-References:
+- Authority
+- Commitment
+- Liking
+- Reciprocity
+- Scarcity
+- Social Proof
+- Unity
+
+
+_References_:
 
 Lennart Meincke, Dan Shapiro etal (2025)Call Me A Jerk: Persuading AI to Comply with Objectionable Requests
 Robert Cialdini (1984)*Influence: The Psychology of Persuasion *

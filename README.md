@@ -28,7 +28,7 @@ Boothby, E. J., & Bohns, V. K. (2020). Why a simple act of kindness is not as si
 For referring to this repo, please use the following
 ```
 @article{aakashthinkevolve,
-  title={Am I a Jerk: Red Teaming of GPT-OSS-4b using persuasion and anthromorphism},
+  title={Am I a Jerk: Red Teaming of GPT-OSS-20b using persuasion and anthromorphism},
   author={Aakash Gupta},
   year={2025},
   publisher={Think Evolve Labs LLC}
